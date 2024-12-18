@@ -7,9 +7,9 @@
 This project explores an integrated framework for multi-class skin lesion classification. The approach combines Fuzzy C-Means (FCM) clustering-based segmentation with a Convolutional Neural Network (CNN) classifier, leveraging the HAM10000 dataset [1]. By incorporating segmentation, we aim to improve classification performance compared to a CNN-only baseline.
 
 ### Objectives
-- **Integrate FCM clustering with CNN classification** for multi-class skin lesion analysis.
+- **Integrate FCM clustering with CNN classification** for multi-class skin lesion classification and analysis.
 - **Evaluate performance improvements** over a CNN-only classification model.
-- **Identify strengths and limitations** of the proposed FCM-CNN approach to inform future enhancements in automated skin lesion analysis.
+- **Identify strengths and limitations** of the proposed FCM-CNN approach to inform future enhancements in automated skin lesion classification and analysis.
 
 ## Experiments
 
